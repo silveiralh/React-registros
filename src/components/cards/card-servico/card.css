@@ -1,0 +1,28 @@
+.card{
+    margin: 1px;
+    z-index: 0;
+}
+.btn-editar{
+    
+
+    border: 1px solid #5856d6;
+    color: #5856d6;
+    transition: .3s ease-in;
+}
+
+.btn-editar:hover{
+    background-color: #af52de ;
+    border: 1px solid #af52de;
+    color: #f2f2f7 ;
+}  
+
+.btn-excluir{
+        transition: .3s ease-in;
+    border: 1px solid lightgray;
+    color: #8C8C8C;
+}
+
+.btn-excluir:hover{
+    background-color:lightgray;
+    border: 1px solid lightgray;
+}  

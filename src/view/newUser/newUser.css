@@ -1,0 +1,29 @@
+.form-login{
+    max-width: 400px;
+}
+.cadastro-content{
+    width: 100%;
+    padding:15%;
+    height: 100%vh;
+
+}
+
+.btn-cadastrar{
+    color: #f2f2f7 ;
+    background-color: #5856d6;
+    transition: .3s ease-in;
+    border: 2px solid #5856d6;
+}
+
+.btn-cadastrar:hover{
+    background-color:#af52de;
+    border: 2px solid #af52de;
+    color: white;
+}   
+.link{
+    color:#8C8C8C;
+    transition: .3s ease-in;
+}
+.link:hover{
+    color:#03CBD6;
+}
